@@ -18,5 +18,4 @@ The token expires in one hour
 # Run:
 ```
 python3 getkey.py
-```# get-flow-token
-# get-flow-token
+```
