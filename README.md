@@ -10,7 +10,7 @@ https://flow.ciandt.com/help/en/help/articles/7877913-api-key
 https://flow.ciandt.com/settings/api-keys
 ```
 
-## OBSERVATION: 
+## Observation: 
 
 The token expires in one hour
 
